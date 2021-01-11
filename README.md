@@ -1,4 +1,4 @@
-# About me
+# TIL
 
-## Android
+꾸준한 공부👨🏻‍💻
 
