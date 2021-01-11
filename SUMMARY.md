@@ -1,6 +1,6 @@
 # Table of contents
 
-* [TIL](README.md)
+* [About me](README.md)
 
 ## TIL
 
@@ -18,7 +18,7 @@
 
 ---
 
-* [Untitled](untitled/README.md)
+* [1월](untitled/README.md)
   * [2021년 1월 8일 금요일](untitled/210108.md)
   * [2021년 1월 7일 목요일](untitled/200107.md)
   * [2020년 1월 6일 수요일](untitled/210106.md)
