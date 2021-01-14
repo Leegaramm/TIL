@@ -16,3 +16,6 @@ description: Android Developer
 
 [blog](https://gaaraam.github.io/) \| [github](http://github.com/gaarraam) \| [linkedin](https://www.linkedin.com/in/garam-lee-664043130/) \| [instagram](https://www.instagram.com/leegaaraam/)
 
+<br></br>
+[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
+
