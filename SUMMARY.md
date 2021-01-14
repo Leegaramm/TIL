@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About me](README.md)
+* [이가람](README.md)
 
 ## TIL
 
