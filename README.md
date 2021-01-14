@@ -14,5 +14,5 @@ description: Android Developer
 
 \*\*\*\*
 
-[blog](https://gaaraam.github.io/) \| [github](http://github.io/gaaraam) \| [linkedin](https://www.linkedin.com/in/garam-lee-664043130/) \| [instagram](https://www.instagram.com/leegaaraam/)
+[blog](https://gaaraam.github.io/) \| [github](http://github.com/gaarraam) \| [linkedin](https://www.linkedin.com/in/garam-lee-664043130/) \| [instagram](https://www.instagram.com/leegaaraam/)
 
