@@ -1,5 +1,5 @@
 ---
-description: Android Developer
+description: Front-end Developer
 ---
 
 # 이가람
