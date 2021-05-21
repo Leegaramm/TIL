@@ -1,5 +1,5 @@
 ---
-description: Front-end Developer
+description: iOS Developer
 ---
 
 # 이가람
