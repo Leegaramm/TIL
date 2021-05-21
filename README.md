@@ -1,5 +1,5 @@
 ---
-description: iOS Developer
+description: Front-end Developer
 ---
 
 # 이가람
@@ -12,5 +12,7 @@ description: iOS Developer
 
 "그게 답니다." 정원사는 대답했다. **"그렇게 500년만 하시면 당신 잔디밭도 이 정도로 괜찮아질 겁니다."**
 
-[![](http://img.shields.io/badge/-Blog-655ced?style=flat-square&logo=github&link=https://gaaraam.github.io/)](https://gaaraam.github.io/) [![](http://img.shields.io/badge/-Github-65caa5?style=flat-square&logo=github&link=https://gitbub.com/gaaraam)](https://github.com/gaaraam) [![](http://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&link=https://instagram.com/leegaaraam)](https://instagram.com/leegaaraam)
+\*\*\*\*[![](http://img.shields.io/badge/-Blog-655ced?style=flat-square&logo=github&link=https://gaaraam.github.io/)](https://gaaraam.github.io/)  [![](http://img.shields.io/badge/-Github-65caa5?style=flat-square&logo=github&link=https://gitbub.com/gaaraam)](https://github.com/gaaraam)  [![](http://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&link=https://instagram.com/leegaaraam)](https://instagram.com/leegaaraam)
+
+
 
